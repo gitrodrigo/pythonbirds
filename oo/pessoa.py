@@ -18,5 +18,3 @@ if __name__ == '__main__':
     print(rodrigo.idade)
     for filho in rodrigo.filhos:
         print(f'{filho.nome} é filho de {rodrigo.nome}')
-
-
